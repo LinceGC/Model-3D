@@ -1,0 +1,203 @@
+[
+    {
+      "name": "ReDreaming Angel",
+      "audioPlayerFile": "res/cam_motion/ready/ReDreaming Angel/Chinatsu idle animation/ReDreaming Angel.mp3",
+      "modelMotionFile": "res/cam_motion/ready/ReDreaming Angel/Chinatsu idle animation/chinatsu_idle_animation_chinatsu.bvmd"
+    },
+	{
+      "name": "ReDreaming Angel",
+      "audioPlayerFile": "res/cam_motion/ready/ReDreaming Angel/ReDreaming Angel/ReDreaming Angel.mp3",
+      "modelMotionFile": "res/cam_motion/ready/ReDreaming Angel/ReDreaming Angel/ReDreaming Angel_chinatsu_C.bvmd"
+    },
+	{
+      "name": "Specialist",
+      "audioPlayerFile": "res/cam_motion/ready/Specialist (Never End ver.)/music001.mp3",
+      "camMotionFile": "res/cam_motion/ready/Specialist (Never End ver.)/CameraMAIN2.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Specialist (Never End ver.)/mmd_Specialist_motion.bvmd"
+    },
+	{
+      "name": "Analog Heart",
+      "audioPlayerFile": "res/cam_motion/ready/Analog Heart/music_2029 [1].wav",
+      "camMotionFile": "res/cam_motion/ready/Analog Heart/Camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Analog Heart/Dancer 1.bvmd"
+    },
+	{
+      "name": "D.Holic - Chewy - WolfMuzzle",
+      "audioPlayerFile": "res/cam_motion/ready/D.Holic - Chewy - WolfMuzzle/DHolicChewy.wav",
+      "modelMotionFile": "res/cam_motion/ready/D.Holic - Chewy - WolfMuzzle/DHOLIC Chewy - WolfMuzzle.bvmd"
+    },
+	{
+      "name": "discopled TIKTOK SHORTS - WolfMuzzle",
+      "audioPlayerFile": "res/cam_motion/ready/discopled TIKTOK SHORTS - WolfMuzzle/discopled+Zachz+Winner+.wav",
+      "camMotionFile": "res/cam_motion/ready/discopled TIKTOK SHORTS - WolfMuzzle/discopled - camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/discopled TIKTOK SHORTS - WolfMuzzle/discopled - Zachz Winner .bvmd"
+    },
+	{
+      "name": "Instant21_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/Instant21_VMD_JL_v1.0/Instant.wav",
+      "camMotionFile": "res/cam_motion/ready/Instant21_VMD_JL_v1.0/Instant21_cameraB_nonstatic.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Instant21_VMD_JL_v1.0/Instant21_VMD_JL_SlidingFix_v1.0.bvmd"
+    },
+	{
+      "name": "MikuMikuBeam",
+      "audioPlayerFile": "res/cam_motion/ready/MikuMikuBeam/Music.wav",
+      "modelMotionFile": "res/cam_motion/ready/MikuMikuBeam/Motion.bvmd"
+    },
+	{
+      "name": "Mine",
+      "audioPlayerFile": "res/cam_motion/ready/Mine/Melody.wav",
+      "modelMotionFile": "res/cam_motion/ready/Mine/TDA.bvmd"
+    },
+	{
+      "name": "PUBG_2PhutHon_VMD_JL_v2.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_2PhutHon_VMD_JL_v2.0/PUBG_2PhutHon.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_2PhutHon_VMD_JL_v2.0/PUBG_2PhutHon_VMD_WristFix_JL_v2.0.bvmd"
+    },
+	{
+      "name": "PUBG_2PhutHon_VMD_JL_v2.0.Loop",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_2PhutHon_VMD_JL_v2.0/PUBG_2PhutHon.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_2PhutHon_VMD_JL_v2.0/PUBG_2PhutHon_loop_VMD_WristFix_JL_v2.0.bvmd"
+    },
+	{
+      "name": "PUBG_BBoomBBoom_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_BBoomBBoom_VMD_JL_v1.0/PUBG_BBoomBBoom.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_BBoomBBoom_VMD_JL_v1.0/PUBG_BBoomBBoom_VMD_JL_v1.0.bvmd"
+    },
+	{
+      "name": "PUBG_HeyMama_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_HeyMama_VMD_JL_v1.0/PUBG_HeyMama.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_HeyMama_VMD_JL_v1.0/PUBG_HeyMama_VMD_JL_v1.0.bvmd"
+    },
+	{
+      "name": "PUBG_RollnRock_VMD_JL_v4.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_RollnRock_VMD_JL_v4.0/PUBG_RollnRock.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_RollnRock_VMD_JL_v4.0/PUBG_RollnRock_VMD_JL_v4.0.bvmd"
+    },
+	{
+      "name": "PUBG_RollnRock_VMD_JL_v4.0.Loop",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_RollnRock_VMD_JL_v4.0/PUBG_RollnRock_loop.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_RollnRock_VMD_JL_v4.0/PUBG_RollnRock_loop_VMD_JL_v4.0.bvmd"
+    },
+	{
+      "name": "PUBG_SeeTinh_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_SeeTinh_VMD_JL_v1.0/PUBG_SeeTinh.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_SeeTinh_VMD_JL_v1.0/PUBG_SeeTinh_VMD_JL_v1.0.bvmd"
+    },
+	{
+      "name": "PUBG_TocaToca_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_TocaToca_VMD_JL_v1.0/PUBG_TocaToca.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_TocaToca_VMD_JL_v1.0/PUBG_TocaToca_VMD_JL_v1.0.bvmd"
+    },
+	{
+      "name": "PUBG_VictoryDance99_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_VictoryDance99_VMD_JL_v1.0/PUBG_VictoryDance99.wav",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_VictoryDance99_VMD_JL_v1.0/PUBG_VictoryDance94_VMD_JL_SlidingFix_v1.0.bvmd"
+    },
+	{
+      "name": "PUBG_VictoryDance102_VMD_JL_v1.0",
+      "audioPlayerFile": "res/cam_motion/ready/PUBG_VictoryDance102_VMD_JL_v1.0/PUBG_VictoryDance102.mp3",
+      "modelMotionFile": "res/cam_motion/ready/PUBG_VictoryDance102_VMD_JL_v1.0/PUBG_VictoryDance102_VMD_JL_v1.0.bvmd"
+    },
+	{
+      "name": "Teen Titans Gm TIKTOK  - WolfMuzzle",
+      "audioPlayerFile": "res/cam_motion/ready/Teen Titans Gm TIKTOK  - WolfMuzzle/GraphicMuzik - Teen Titans Gm (Sped Up).wav",
+      "camMotionFile": "res/cam_motion/ready/Teen Titans Gm TIKTOK  - WolfMuzzle/Teen Titans Gm TIKTOK camera  - WolfMuzzle.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Teen Titans Gm TIKTOK  - WolfMuzzle/Teen Titans Gm TIKTOK  - WolfMuzzle.bvmd"
+    },
+	{
+      "name": "Terminal Rangers TIKTOK SHORTS - WolfMuzzle - Front",
+      "audioPlayerFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/Terminal+Rangers.wav",
+      "camMotionFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/Camera (for solo and duet).bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/1 motion (front).bvmd"
+    },
+	{
+      "name": "Terminal Rangers TIKTOK SHORTS - WolfMuzzle - Back",
+      "audioPlayerFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/Terminal+Rangers.wav",
+      "camMotionFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/Camera (for solo and duet).bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Terminal Rangers TIKTOK SHORTS - WolfMuzzle/2 motion (back).bvmd"
+    },
+	{
+      "name": "The Dance LAROI",
+      "audioPlayerFile": "res/cam_motion/ready/The Dance LAROI/MX_LP3.wav",
+      "modelMotionFile": "res/cam_motion/ready/The Dance LAROI/TDA.bvmd"
+    },
+    {
+      "name": "Classic",
+      "audioPlayerFile": "res/cam_motion/ready/Classic/MMDClassic.mp3",
+      "camMotionFile": "res/cam_motion/ready/Classic/MMDClassicCamera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Classic/MMDClassicMotion.bvmd"
+    },
+    {
+      "name": "Renai",
+      "audioPlayerFile": "res/cam_motion/ready/恋サーFullモーションセット/恋愛サーキュレーション.mp3",
+      "camMotionFile": "res/cam_motion/ready/恋サーFullモーションセット/Camera for 恋爱循环.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/恋サーFullモーションセット/恋爱循环+.bvmd"
+    },
+	{
+      "name": "Ari No Mama Story No",
+	  "audioPlayerFile": "res/cam_motion/ready/ari_no_mama_story_wo/Hatsune Miku-ありのままのストーリー_4MgWFbCEOI4.mp3",
+      "camMotionFile": "res/cam_motion/ready/ari_no_mama_story_wo/CAMERA_ari_no_mama_story_wo_motion.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/ari_no_mama_story_wo/FULL_ari_no_mama_story_wo_motion.bvmd"
+    },
+	{
+      "name": "おじさん構文",
+	  "audioPlayerFile": "res/cam_motion/ready/おじさん構文/music.mp3",
+      "camMotionFile": "res/cam_motion/ready/おじさん構文/camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/おじさん構文/motion.bvmd"
+    },
+	{
+      "name": "akage1",
+	  "audioPlayerFile": "res/cam_motion/ready/akage1/akage_music.wav",
+      "camMotionFile": "res/cam_motion/ready/akage1/camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/akage1/dance_janedoe.bvmd"
+    },
+	{
+      "name": "akage2",
+	  "audioPlayerFile": "res/cam_motion/ready/akage2/akage_music.mp3",
+      "camMotionFile": "res/cam_motion/ready/akage2/camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/akage2/dance_mizuki.bvmd"
+    },
+	{
+      "name": "She+Wolf+-+Shakira+(Suka_g)",
+	  "audioPlayerFile": "res/cam_motion/ready/She+Wolf+-+Shakira+(Suka_g)/wav.wav",
+      "camMotionFile": "res/cam_motion/ready/She+Wolf+-+Shakira+(Suka_g)/cam (smooth).bvmd",
+      "modelMotionFile": "res/cam_motion/ready/She+Wolf+-+Shakira+(Suka_g)/main (smooth).bvmd"
+    },
+	{
+      "name": "I like your body tiktok (sukaretto gonzales)",
+	  "audioPlayerFile": "res/cam_motion/ready/I like your body tiktok (sukaretto gonzales)/Wav.wav",
+      "camMotionFile": "res/cam_motion/ready/I like your body tiktok (sukaretto gonzales)/camout.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/I like your body tiktok (sukaretto gonzales)/main.bvmd"
+    },
+    {
+	  "name": "Ahegao Bemax Challenge (sukaretto g)",
+	  "audioPlayerFile": "res/cam_motion/ready/Ahegao Bemax Challenge (sukaretto g)/wav.wav",
+      "camMotionFile": "res/cam_motion/ready/Ahegao Bemax Challenge (sukaretto g)/cam.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Ahegao Bemax Challenge (sukaretto g)/main.bvmd"
+    },
+	{
+      "name": "Chloe Have Mercy",
+	  "audioPlayerFile": "res/cam_motion/ready/Chloe Have Mercy/wav.wav",
+      "camMotionFile": "res/cam_motion/ready/Chloe Have Mercy/camout.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Chloe Have Mercy/Motion.bvmd"
+    },
+	{
+      "name": "PokeDance (suka_g)",
+	  "audioPlayerFile": "res/cam_motion/ready/PokeDance (suka_g)/wav.wav",
+      "camMotionFile": "res/cam_motion/ready/PokeDance (suka_g)/cam (smooth).bvmd",
+      "modelMotionFile": "res/cam_motion/ready/PokeDance (suka_g)/Main (smooth).bvmd"
+    },
+	{
+      "name": "Twerk it (sukaretto gonzales)",
+	  "audioPlayerFile": "res/cam_motion/ready/Twerk it (sukaretto gonzales)/wav.wav",
+      "camMotionFile": "res/cam_motion/ready/Twerk it (sukaretto gonzales)/cam.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/Twerk it (sukaretto gonzales)/smooth motion.bvmd"
+    },
+    {
+      "name": "105",
+      "audioPlayerFile": "res/cam_motion/ready/热爱105C的你/热爱105C的你.mp3",
+      "camMotionFile": "res/cam_motion/ready/热爱105C的你/camera.bvmd",
+      "modelMotionFile": "res/cam_motion/ready/热爱105C的你/热爱105℃的你.bvmd"
+    }
+  ]
+  

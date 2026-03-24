@@ -1,0 +1,56 @@
+{
+    "name": "model-viewer",
+    "version": "1.0.0",
+    "description": "babylon mmd model viewing project",
+    "scripts": {
+        "start": "webpack serve --mode development",
+        "watch": "webpack --watch",
+        "build": "webpack --env production",
+        "lint": "eslint --ext .ts,.tsx . --fix --cache"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Phoshco/model-viewer.git"
+    },
+    "author": "Phoshco",
+    "license": "MIT",
+    "homepage": "https://github.com/Phoshco/model-viewer",
+    "devDependencies": {
+        "@babylonjs/core": "^8.30.5",
+        "@babylonjs/havok": "^1.3.10",
+        "@babylonjs/inspector": "^8.30.5",
+        "@babylonjs/materials": "^8.30.5",
+        "@stylistic/eslint-plugin": "^5.4.0",
+        "@typescript-eslint/eslint-plugin": "^8.20.0",
+        "@typescript-eslint/parser": "^8.20.0",
+        "babylon-mmd": "^1.0.0",
+        "copy-webpack-plugin": "^13.0.1",
+        "eslint": "^9.37.0",
+        "eslint-plugin-simple-import-sort": "^12.1.1",
+        "eslint-webpack-plugin": "^5.0.2",
+        "file-loader": "^6.2.0",
+        "html-loader": "^5.1.0",
+        "html-webpack-plugin": "^5.6.4",
+        "ts-loader": "^9.5.4",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.9.3",
+        "typescript-eslint": "^8.46.0",
+        "url": "^0.11.3",
+        "webpack": "^5.102.1",
+        "webpack-cli": "^6.0.1",
+        "webpack-dev-server": "^5.2.2"
+    },
+    "sideEffects": false,
+    "dependencies": {
+        "@babylonjs/core": "^8.30.5",
+        "@babylonjs/havok": "^1.3.10",
+        "@babylonjs/inspector": "^8.30.5",
+        "@babylonjs/loaders": "^8.30.5",
+        "@babylonjs/materials": "^8.30.5",
+        "babylon-mmd": "^1.0.0",
+        "firebase": "^11.2.0",
+        "jszip": "^3.10.1",
+        "minisearch": "^7.1.1",
+        "typescript-eslint": "^8.46.0"
+    }
+}
